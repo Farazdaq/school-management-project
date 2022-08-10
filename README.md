@@ -2,7 +2,7 @@
 we are all de mre all are marge
 the project is a website that helps a school to manage all it's operations classes management, sections, teachers, attendance and it's programmed using js,html,php mysql 
 
-Project: Complete School Management System using PHP MySQL with Free Source Code i
+Project: Complete School Management System using PHP MySQL with Free Source Code i all mu code
 About Complete School Management System
 Features of the Project
 Screenshots
