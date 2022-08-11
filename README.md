@@ -1,5 +1,5 @@
 # school-management-project
-we are all de mre all are marge
+ we are the new team 
 the project is a website that helps a school to manage all it's operations classes management, sections, teachers, attendance and it's programmed using js,html,php mysql start now 
 
 Project: Complete School Management System using PHP MySQL with Free Source Code i all mu code
