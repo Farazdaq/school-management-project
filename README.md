@@ -1,14 +1,8 @@
 # school-management-project
-<<<<<<< HEAD
-we are all de mre all are marge
-the project is a website that helps a school to manage all it's operations classes management, sections, teachers, attendance and it's programmed using js,html,php mysql 
+ we are the new team in sudan 
+the project is a website that helps a school to manage all it's operations classes management, sections, teachers, attendance and it's programmed using js,html,php mysql start now 
 
 Project: Complete School Management System using PHP MySQL with Free Source Code i all mu code
-=======
-the project is a website that helps a school to manage all it's operations classes management, sections, teachers, attendance and it's programmed using js,html,php mysql 
-
-Project: Complete School Management System using PHP MySQL with Free Source Code
->>>>>>> 847975b5614be2f62da387430666c63a7654217f
 About Complete School Management System
 Features of the Project
 Screenshots
@@ -53,6 +47,11 @@ School academic affairs
 students 
 parents 
 teachers 
+
+
+Testing:
+components:
+teachers: assigned to Mawadda Hussien
  
 
  
