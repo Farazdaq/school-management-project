@@ -47,6 +47,11 @@ School academic affairs
 students 
 parents 
 teachers 
+
+
+#Testing:
+components:
+teachers: assigned to Mawadda Hussien
  
 
  
